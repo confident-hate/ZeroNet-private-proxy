@@ -7,7 +7,7 @@
   "keywords": ["python", "zeronet", "proxy"], 
   "buildpacks": [
      {
-      "url": "https://github.com/BruceJawn/heroku-buildpack-ZeroNet"
+      "url": "https://github.com/confident-hate/heroku-buildpack-ZeroNet"
     },
     {
       "url": "heroku/python"
