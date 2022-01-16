@@ -2,7 +2,7 @@
 
 Click the following button to deploy to Heroku.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/confident-hate/ZeroNet-private-proxy)
 	
 Then add config variable "mypassword" to set your password for login ((https://dashboard.heroku.com/apps/your_heroku_app_name/settings) -> Config Variables).
 
